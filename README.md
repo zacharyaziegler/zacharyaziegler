@@ -3,8 +3,8 @@
 ## 💻 About Me
 
 - 🎓 B.S. in Computer Science | Farmingdale State College
-- 🚀 Java enthusiast who loves solving problems and continuously learning new tools and frameworks.
-- 🌱 Currently expanding my skills in Full-Stack Development with Spring Boot and React.
+- ☕ Java enthusiast who loves solving problems and continuously learning new tools and frameworks.
+- 🌱 Currently working on.. a website where you can video chat with random strangers.
 ---
 ## 🛠️ Tech Stack & Tools
 
