@@ -4,7 +4,7 @@
 
 - 🎓 B.S. in Computer Science | Farmingdale State College
 - ☕ Java enthusiast who loves solving problems and continuously learning new tools and frameworks.
-- 🌱 Currently working on.. a website where you can video chat with random strangers.
+- 🌱 Currently working on.. a react website where you can chat with random strangers.
 ---
 ## 🛠️ Tech Stack & Tools
 
