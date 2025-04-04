@@ -5,7 +5,7 @@
 - 🎓 B.S. in Computer Science | Farmingdale State College
 - ☕ Java enthusiast who loves solving problems and continuously learning new tools and frameworks.
 - 🌱 Currently working on.. a react website where you can chat with random strangers.
-- 🥋 Love training BJJ, lifting weights, and staying active when I'm not debugging 🪲
+- 🥋 Love training BJJ, lifting weights, and living an active lifestyle!
 ---
 ## 🛠️ Tech Stack & Tools
 
