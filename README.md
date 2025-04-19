@@ -14,7 +14,8 @@
 ![Your Languages](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Your Languages](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Your Languages](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 ### 🔧 Frameworks & Libraries
-![Your Frameworks](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Your Frameworks](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![JavaFX](https://img.shields.io/badge/-JavaFX-FF7800?style=flat&logo=java&logoColor=white)
+![Your Frameworks](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Your Frameworks](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![JavaFX](https://img.shields.io/badge/-JavaFX-FF7800?style=flat&logo=java&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=flat&logo=material-ui&logoColor=white)
+
 
 
 ### 🛠️ Tools & Backend Services
