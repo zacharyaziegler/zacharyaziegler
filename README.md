@@ -3,9 +3,8 @@
 ## 💻 About Me
 
 - 🎓 B.S. in Computer Science | Farmingdale State College
-- ☕ Java enthusiast who loves solving problems and continuously learning new tools and frameworks.
-- 🥋 Love training BJJ, lifting weights, and living an active lifestyle!
-- 🌱 Currently working on.. a portfolio + booking site for a client in the tattoo space.
+- ☕ Java enthusiast who loves solving problems and continuously learning new tools and frameworks
+- 🥋 Love training BJJ, lifting weights, and living an active lifestyle
 
 ---
 ## 🛠️ Tech Stack & Tools
